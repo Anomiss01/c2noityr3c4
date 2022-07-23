@@ -3,8 +3,8 @@ local LocalPlayer = Players.LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 local manager = {Prefix = "!"}
 
-if Players:FindFirstChild("US3RNAME_3ACC") then
-    owner = Players["US3RNAME_3ACC"]
+if Players:FindFirstChild("USERNAME_4ACC") then
+    owner = Players["USERNAME_4ACC"]
 end
 
 function GetPlayerFromName(txt)
